@@ -1,0 +1,5 @@
+xxxxxx xxxxxx xxxxxx
+xxxxxx xxxxxx xxxxxx
+#format:
+mailaddress password(or authorization code) account
+there is a blank space between three pieces of information
